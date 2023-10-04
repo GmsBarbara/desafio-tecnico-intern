@@ -125,8 +125,7 @@ SELECT * FROM database.tabela;
 <details>
  <summary><strong>:heavy_check_mark: Resposta</strong></summary>
   <br />
-  Meus projetos mais completos foram feitos na formação no técnico, o que eu mais gosto foi meu TCC, era um site de receita baseado nos ingredientes disponíveis, usamos a linguagem C# e o MySql, fiquei responsável por parte do banco e por todo o Front end do projeto.
-
+Os meus projetos mais completos foram realizados durante a minha formação técnica. O que mais me destaco é o meu Trabalho de Conclusão de Curso (TCC), que consiste em um site de receitas com base nos ingredientes disponíveis. Utilizamos a linguagem C# e o MySQL , sendo minha responsabilidade a gestão de parte do banco de dados e todo o desenvolvimento da interface gráfica.
   </details>
   
 

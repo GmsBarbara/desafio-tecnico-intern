@@ -7,7 +7,7 @@ Para responder a este questionário, crie um fork do repositório e responda às
 <br>- Explique o que é um framework web e qual a sua importância.</br>
 <details>
   <summary><strong>:heavy_check_mark: Resposta</strong></summary>
-  <br />
+  <br/>
   
 É um conjunto de bibliotecas, é um esqueleto genérico para resolver uma necessidade “x” de desenvolvimento de software, baseado na linguagem especifica, ele é importante pois diminui o tempo de desenvolvimento, além de padronizar os projetos.
   
@@ -35,7 +35,7 @@ Para responder a este questionário, crie um fork do repositório e responda às
 -  Angular
 -  Vue
 
-  
+  </details>
 
 <br>- Explique o que é um banco de dados relacional e quais são os seus componentes.</br>
 <details>
